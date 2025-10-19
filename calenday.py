@@ -76,5 +76,5 @@ class Calendar:
             print()
         
         
-calendar_2025 = Calendar(2025)
-calendar_2025.print_calendar(2025)
+# calendar_2025 = Calendar(2025)
+# calendar_2025.print_calendar(2025)
